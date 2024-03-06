@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+}
+p {
+    color: rgb(114, 10, 250);
+  }
+  .linha {
+    border-bottom: 100px solid #ff00dd;
+  }
+  table{
+    border: 5px solid black;
+    border-collapse: collapse;
+
+  }
+
+  th, td {
+    border: 4px solid #ff00dd;
+    padding: 12px;
+  }
+  h1{
+    color: rgb(255, 0, 0);
+  }
+  #sans
